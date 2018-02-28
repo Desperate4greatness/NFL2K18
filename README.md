@@ -1,5 +1,5 @@
-## Antdroid/Minotauri NFL Roster for 2017-18 Season
-## version 1.4 (09-13-2017)
+## Antdroid/Minotauri NFL Roster for 2018-19 Season
+## version 1.4 (09-13-2018)
 ##Changelog
 ##v1.0 Initial Release
 ##v1.11 Fixed extra comma bug affecting iOS and players with initials for first name
@@ -138,7 +138,7 @@ OL,Charley Hughlett,27,2014,77,65,82,75,70,67,0.6,6
 OL,Marcus Martin,24,2014,76,77,84,82,73,72,1.1,1
 OL,Joel Bitonio,26,2014,85,86,91,86,77,89,5.2,6
 LB,Christian Kirksey,25,2014,78,84,85,92,82,86,5.3,5
-RB,Isaiah Crowell,24,2014,78,78,87,87,89,85,1.6,1
+RB,Saquon Barkley,20,2018,98,93,91,90,92,95,1.6,6
 DL,Jamie Meder,26,2014,75,76,90,87,83,79,0.3,1
 RB,Duke Johnson,24,2015,77,80,83,80,90,85,0.6,2
 WR,Sammie Coates,24,2015,67,64,88,77,91,81,0.5,2
@@ -173,11 +173,11 @@ RB,Matt Dayes,22,2017,66,54,84,71,84,73,0.4,4
 WR,David Njoku,21,2017,73,65,86,82,85,79,2.2,4
 OL,Zach Banner,24,2017,78,62,81,90,81,74,0.5,4
 K,Zane Gonzalez,22,2017,75,51,79,96,78,51,0.4,4
-DL,Myles Garrett,22,2017,78,70,84,96,89,88,7.6,4
+DL,Myles Garrett,22,2017,98,90,94,96,89,88,7.6,4
 DL,Caleb Brantley,23,2017,76,56,84,89,88,80,0.4,4
-DL,Larry Ogunjobi,23,2017,77,70,87,88,86,84,0.7,4
+DL,Bradley Chubb,22,2018,97,90,97,88,89,89,0.7,4
 S,Kai Nacua,22,2017,70,53,88,82,88,66,0.3,1
-S,Jabrill Peppers,22,2017,73,68,89,84,90,79,2.4,4
+S,Jabrill Peppers,22,2017,93,68,89,84,90,79,2.4,4
 CB,Howard Wilson,22,2017,64,57,86,80,87,74,0.5,4
 DL,Trevon Coley,23,2016,72,65,84,85,86,87,0.3,2
 END_PLAYERS
@@ -1170,18 +1170,18 @@ END_PLAYERS
 ######################################################################  COWBOYS
 Dallas Cowboys,DAL
 K,Mike Nugent,35,2005,37,52,84,91,77,52,0.6,1
-OL,Tyron Smith,27,2011,90,97,87,89,78,85,4.3,8
+OL,Tyron Smith,27,2011,95,97,97,99,88,89,4.3,8
 DL,Stephen Paea,29,2011,65,76,85,96,93,75,1.5,1
 WR,Dez Bryant,29,2010,96,90,89,92,89,89,5.8,3
 LB,Sean Lee,31,2010,89,97,85,95,88,84,5.6,3
-WR,Jason Witten,35,2003,86,97,94,93,77,72,4.6,5
-CB,Orlando Scandrick,30,2008,88,81,83,89,90,72,2.6,3
+WR,Jason Witten,35,2003,86,97,94,93,87,92,4.6,5
+CB,Orlando Scandrick,30,2008,83,81,83,84,82,82,2.6,3
 OL,L. P. Ladouceur,36,2005,76,85,85,72,55,72,0.7,1
 LB,Justin Durant,32,2007,65,76,88,83,76,82,0.6,1
-K,Dan Bailey,29,2011,71,71,84,92,95,71,2.4,4
+K,Dan Bailey,29,2011,91,91,84,92,95,91,2.4,5
 RB,Darren McFadden,30,2008,66,72,77,80,89,78,0.6,1
 OL,Jonathan Cooper,27,2013,69,69,79,88,77,73,1.5,1
-OL,Travis Frederick,26,2013,91,95,96,92,88,81,4,7
+OL,Travis Frederick,26,2013,91,95,96,92,88,91,4,7
 K,Chris Jones,28,2011,70,69,81,93,92,69,1,1
 WR,Terrance Williams,28,2013,74,80,88,84,90,79,3.3,4
 OL,Byron Bell,28,2011,77,74,84,91,74,75,1.3,1
@@ -1194,36 +1194,36 @@ WR,Cole Beasley,28,2012,72,86,91,87,88,80,2.6,2
 WR,Brice Butler,27,2013,75,79,82,81,92,74,0.8,1
 DL,Benson Mayowa,26,2013,76,73,81,70,76,86,2.3,2
 S,Jeff Heath,26,2013,71,72,87,83,89,67,1.4,3
-OL,Zack Martin,27,2014,93,96,94,93,91,93,2.1,8
+OL,Zack Martin,27,2014,93,96,94,93,93,93,2.1,8
 CB,Bene Benwikere,26,2014,77,64,87,85,88,64,0.4,1
-LB,Anthony Hitchens,25,2014,88,85,92,85,86,84,0.6,8
-DL,DeMarcus Lawrence,25,2014,94,88,89,85,86,88,1.2,7
+LB,Anthony Hitchens,25,2014,88,81,82,83,82,81,0.6,3
+DL,DeMarcus Lawrence,25,2014,94,93,90,92,91,92,1.2,7
 RB,Keith Smith,25,2014,80,76,83,66,77,71,0.4,1
 WR,Geoff Swaim,24,2015,78,67,79,74,82,70,0.4,2
 OL,Chaz Green,25,2015,82,73,81,76,73,76,0.5,2
-OL,La'el Collins,24,2015,84,74,88,88,77,75,3.9,3
+OL,La'el Collins,24,2015,84,84,88,88,87,85,3.9,6
 LB,Damien Wilson,24,2015,77,73,86,82,81,80,0.5,2
-S,Byron Jones,25,2015,82,77,89,91,91,66,2,2
+S,Byron Jones,25,2015,82,77,83,84,85,66,2,2
 DL,David Irving,23,2015,89,88,84,88,87,87,0.4,9
 DL,Richard Ash,25,2015,59,46,85,88,86,75,0.3,2
 RB,Rod Smith,25,2015,89,76,87,84,86,80,0.4,6
-QB,Dak Prescott,21,2016,198,94,93,93,94,95,0.1,12
-RB,Ezekiel Elliott,21,2016,94,88,92,87,91,90,0.1,10
-DL,Charles Tapper,24,2016,73,57,90,80,85,86,0.5,3
-DL,Maliek Collins,22,2016,82,76,87,84,86,86,0.7,5
-LB,Jaylon Smith,22,2016,83,69,82,84,82,81,0.4,10
-CB,Anthony Brown,24,2016,85,77,90,87,95,63,0.4,8
+QB,Dak Prescott,23,2016,88,91,88,83,84,85,0.1,4
+RB,Ezekiel Elliott,21,2016,94,98,92,92,91,90,0.1,10
+DL,Charles Tapper,24,2016,73,77,90,80,85,86,0.5,3
+DL,Maliek Collins,22,2016,82,80,84,84,84,83,0.7,5
+LB,Jaylon Smith,22,2016,83,80,82,84,82,81,0.4,10
+CB,Anthony Brown,24,2016,85,82,90,87,85,83,0.4,8
 S,Kavon Frazier,23,2016,75,63,91,82,86,78,0.4,3
 LB,Justin March-Lillard,24,2015,81,69,82,82,81,79,0.3,1
 WR,Noah Brown,20,2017,95,72,84,85,87,82,0.05,10
 WR,Blake Jarwin,23,2017,63,47,85,78,81,69,0.3,3
-DL,Taco Charlton,23,2017,89,64,90,79,84,91,2.3,4
-CB,Jourdan Lewis,22,2017,85,84,91,85,89,86,0.6,6
-CB,Chidobe Awuzie,22,2017,87,78,88,83,91,88,0.8,2
+DL,Taco Charlton,23,2017,89,81,85,79,84,81,2.3,4
+CB,Jourdan Lewis,22,2017,85,84,88,85,84,83,0.6,6
+CB,Chidobe Awuzie,22,2017,87,84,88,83,91,85,0.8,2
 S,Xavier Woods,22,2017,76,78,89,82,89,79,0.4,4
-WR,Ryan Switzer,23,2017,78,71,90,83,89,89,0.5,6
-QB,Cooper Rush,24,2017,95,82,91,88,81,81,0.3,5
-DL,Lewis Neal,22,2017,73,50,87,80,81,79,0.3,1
+WR,Ryan Switzer,23,2017,86,71,82,83,83,82,0.5,6
+QB,Cooper Rush,24,2017,86,82,81,82,81,81,0.3,5
+QB,Lamar Jackson,17,2018,99,80,99,99,81,99,0.01,15
 END_PLAYERS
 ######################################################################  GIANTS
 New York Giants,NYG
