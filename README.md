@@ -1,5 +1,5 @@
-## Antdroid/Minotauri NFL Roster for 2018-19 Season
-## version 1.4 (09-13-2018)
+## Antdroid/Minotauri NFL Roster for 2017-18 Season
+## version 1.4 (09-13-2017)
 ##Changelog
 ##v1.0 Initial Release
 ##v1.11 Fixed extra comma bug affecting iOS and players with initials for first name
@@ -138,7 +138,7 @@ OL,Charley Hughlett,27,2014,77,65,82,75,70,67,0.6,6
 OL,Marcus Martin,24,2014,76,77,84,82,73,72,1.1,1
 OL,Joel Bitonio,26,2014,85,86,91,86,77,89,5.2,6
 LB,Christian Kirksey,25,2014,78,84,85,92,82,86,5.3,5
-RB,Saquon Barkley,20,2018,98,93,91,90,92,95,1.6,6
+RB,Saquon Barkley,20,2017,98,93,91,90,92,95,1.6,6
 DL,Jamie Meder,26,2014,75,76,90,87,83,79,0.3,1
 RB,Duke Johnson,24,2015,77,80,83,80,90,85,0.6,2
 WR,Sammie Coates,24,2015,67,64,88,77,91,81,0.5,2
@@ -175,7 +175,7 @@ OL,Zach Banner,24,2017,78,62,81,90,81,74,0.5,4
 K,Zane Gonzalez,22,2017,75,51,79,96,78,51,0.4,4
 DL,Myles Garrett,22,2017,98,90,94,96,89,88,7.6,4
 DL,Caleb Brantley,23,2017,76,56,84,89,88,80,0.4,4
-DL,Bradley Chubb,22,2018,97,90,97,88,89,89,0.7,4
+DL,Bradley Chubb,22,2017,97,90,97,88,89,89,0.7,4
 S,Kai Nacua,22,2017,70,53,88,82,88,66,0.3,1
 S,Jabrill Peppers,22,2017,93,68,89,84,90,79,2.4,4
 CB,Howard Wilson,22,2017,64,57,86,80,87,74,0.5,4
@@ -1223,7 +1223,7 @@ CB,Chidobe Awuzie,22,2017,87,84,88,83,91,85,0.8,2
 S,Xavier Woods,22,2017,76,78,89,82,89,79,0.4,4
 WR,Ryan Switzer,23,2017,86,71,82,83,83,82,0.5,6
 QB,Cooper Rush,24,2017,86,82,81,82,81,81,0.3,5
-QB,Lamar Jackson,17,2018,99,80,99,99,81,99,0.01,15
+QB,Lamar Jackson,17,2017,99,80,99,99,81,99,0.01,15
 END_PLAYERS
 ######################################################################  GIANTS
 New York Giants,NYG
